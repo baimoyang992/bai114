@@ -1,0 +1,18 @@
+# Android / Gradle generated files
+.gradle/
+build/
+*/build/
+local.properties
+
+# IDE metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary APK signing/build outputs
+app/release/
